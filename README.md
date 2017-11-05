@@ -19,7 +19,7 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 Vulnerability #1: Cross Site Scripting (XSS)
 
-Vulnerability #2: __________________
+Vulnerability #2: Session Hijacking/Fixation
 
 
 ## Green
